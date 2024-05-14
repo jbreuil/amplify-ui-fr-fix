@@ -1,5 +1,13 @@
 # @aws-amplify/ui
 
+## 6.0.15
+
+### Patch Changes
+
+- [#5249](https://github.com/aws-amplify/amplify-ui/pull/5249) [`1ca7c38e1`](https://github.com/aws-amplify/amplify-ui/commit/1ca7c38e15c5a7d307aa7e704b77d596167accb2) Thanks [@esauerbo](https://github.com/esauerbo)! - chore(i18n): Add german translations
+
+- [`846607f86`](https://github.com/aws-amplify/amplify-ui/commit/846607f86388daddce151474b59283340bdcf077) Thanks [@zchenwei](https://github.com/zchenwei)! - fix: add missing fr translations
+
 ## 6.0.14
 
 ### Patch Changes
